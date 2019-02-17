@@ -300,6 +300,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Udemy: NLP - Natural Language Processing with Python](https://www.udemy.com/nlp-natural-language-processing-with-python/)
 - [Udemy: Deep Learning: Advanced NLP and RNNs](https://www.udemy.com/deep-learning-advanced-nlp/)
 - [Udemy: Natural Language Processing and Text Mining Without Coding](https://www.udemy.com/master-natural-language-processing-nlp-text-mining-without-coding/)
+- [berkeley: 2019 Applied Natural Language Processing](http://people.ischool.berkeley.edu/~dbamman/info256.html) 
 
 ## APIs and Libraries
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
